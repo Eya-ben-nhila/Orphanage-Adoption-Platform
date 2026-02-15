@@ -1,0 +1,7 @@
+{
+  "name": "Hunter's Hearth",
+  "description": "A high-security child adoption platform inspired by the Hunter × Hunter world, dedicated to matching children with verified, safe, and loving guardian families while keeping them protected from dangerous individuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
